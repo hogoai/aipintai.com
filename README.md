@@ -6,7 +6,7 @@
 
 想找一款能用在工作里的 AI 工具，或弄清一个新出现的 AI 概念？AIPINTAI 把工具入口、中文解读和行业动态放在一个地方，方便个人用户、开发者和小团队按需求查找。
 
-[访问官网](https://www.aipintai.com/) · [提交 AI 工具](https://www.aipintai.com/?formid=1&plugin=nciaer_form) · [发布合作](https://www.aipintai.com/bd.html) · [反馈与建议](https://github.com/hogoai/aipintai.com/issues)
+[访问官网](https://www.aipintai.com/) · [提交 AI 工具](https://www.aipintai.com/?plugin=nciaer_form&formid=1) · [发布合作](https://www.aipintai.com/bd.html) · [反馈与建议](https://github.com/hogoai/aipintai.com/issues)
 
 ## AI 工具分类
 
