@@ -1,6 +1,6 @@
 # AIPINTAI · AI平台网
 
-**AIPINTAI 是一个月阅读量 8–10 万的中文 AI 工具导航与资讯网站。** 我们免费为中文读者介绍全球优秀的 AI 工具，并分享行业动态。
+**AIPINTAI 是一个月阅读量 8–10 万的中文 AI 工具导航与资讯网站。** 网站已收录 **1,000+ 个 AI 工具**，及 **500+ 篇 AI 资讯**。我们免费为中文读者介绍全球优秀的 AI 工具，并分享行业动态。
 
 如果你有 AI 产品、工具更新或行业资讯要发布，欢迎与我们联系。AIPINTAI 可以成为你触达中文读者的发布渠道伙伴。
 
@@ -64,6 +64,6 @@ AIPINTAI 官网首页设有 16 个工具与资源分类。点击分类名称即�
 
 **AIPINTAI** is a Chinese-language AI tools directory and knowledge site. It helps readers browse 16 categories spanning creative tools, productivity, industry applications, and AI development, and follow industry news.
 
-AIPINTAI receives 80,000–100,000 reads per month and introduces AI tools from around the world to Chinese-speaking readers for free. If you have an AI tool, product update, or industry news to share, [get in touch about publishing with us](https://www.aipintai.com/bd.html).
+AIPINTAI lists **1,000+ AI tools**, features **500+ AI news articles**, and receives **80,000–100,000 reads per month**. It introduces AI tools from around the world to Chinese-speaking readers for free. If you have an AI tool, product update, or industry news to share, [get in touch about publishing with us](https://www.aipintai.com/bd.html).
 
 This repository is the project's public introduction and feedback hub. [Visit AIPINTAI](https://www.aipintai.com/) or [share feedback on GitHub](https://github.com/hogoai/aipintai.com/issues).
